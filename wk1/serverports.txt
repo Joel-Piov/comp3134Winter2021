@@ -1,0 +1,8 @@
+A port number is a way to identify a specific process to which an Internet or other network message is to be forwarded when it arrives at a server.
+
+Port numbers range from 0 - 49151.
+
+16 bits
+
+Common Ports are:
+20, 21, 25, 80, 123, 143, 161, 162, 443, 989, 990, 3389, 8080...
