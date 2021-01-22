@@ -1,0 +1,41 @@
+root@comp-3134-Winter-2021:~# nmap 104.248.60.43
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 15:32 UTC
+Nmap scan report for 104.248.60.43
+Host is up (0.014s latency).
+Not shown: 997 filtered ports
+PORT     STATE  SERVICE
+80/tcp   open   http
+443/tcp  open   https
+8300/tcp closed tmi
+
+Nmap done: 1 IP address (1 host up) scanned in 15.92 seconds
+root@comp-3134-Winter-2021:~# nmap -p 80 104.248.60.43
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 15:32 UTC
+Nmap scan report for 104.248.60.43
+Host is up (0.014s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 11.10 seconds
+root@comp-3134-Winter-2021:~# nmap -p 80-8300 151.101.65.195
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 15:33 UTC
+Nmap scan report for 151.101.65.195
+Host is up (0.00050s latency).
+Not shown: 8219 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 31.97 seconds
+root@comp-3134-Winter-2021:~# nmap -F 193.59.178.150
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 15:35 UTC
+Nmap scan report for host-193-59-178-150.gog.com (193.59.178.150)
+Host is up (0.11s latency).
+Not shown: 97 filtered ports
+PORT    STATE  SERVICE
+80/tcp  open   http
+179/tcp closed bgp
+443/tcp open   https
+
+Nmap done: 1 IP address (1 host up) scanned in 14.34 seconds

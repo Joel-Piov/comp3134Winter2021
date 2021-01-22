@@ -1,0 +1,15 @@
+PS D:\George Brown\Cyber Security\comp3134Winter2021\wk2> tracert 167.99.182.113
+
+Tracing route to 167.99.182.113 over a maximum of 30 hops
+
+  1     3 ms     3 ms     3 ms  hitronhub.home [192.168.0.1]
+  2    16 ms    12 ms    19 ms  72.141.83.1
+  3    13 ms    12 ms    13 ms  vl-201.gw03.nbsj.phub.net.cable.rogers.com [66.185.91.209]
+  4    12 ms    13 ms    13 ms  ge7-0.gw01.glph.phub.net.cable.rogers.com [69.63.248.121]
+  5    14 ms    10 ms    14 ms  209.148.235.210
+  6    16 ms    11 ms    12 ms  digitalocean.ip4.torontointernetxchange.net [206.108.35.15]
+  7    12 ms    12 ms    12 ms  138.197.249.91
+  8     *        *        *     Request timed out.
+  9    14 ms    13 ms    11 ms  167.99.182.113
+
+Trace complete.

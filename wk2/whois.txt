@@ -1,0 +1,215 @@
+-------------georgebrown.ca-------------
+ns1.d-zone.ca162.219.54.2
+ns1.georgebrown.ca198.96.86.35
+ns2.d-zone.ca162.219.55.2
+ns2.georgebrown.ca198.96.87.135
+
+Registrant Contact Information:
+NameGeorge Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+Administrative Contact Information:
+NameGeorge Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+Technical Contact Information:
+NameGeorge Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+Billing Contact Information:
+NameGeorge Brown College (Toronto)
+Organization
+AddressP.O. Box 1015 Station B
+CityToronto
+State / ProvinceON
+Postal CodeM5T2T9
+CountryCA
+Phone+1.4164155000
+Fax+1.4164154667
+Email
+
+
+-------------nexos.org.pe-------------
+ns1.peruempresario.com98.142.107.19
+ns2.peruempresario.com98.142.107.20
+Registrant Contact Information:
+NameMARIA VALDIVIESO
+Organization
+Address
+City
+Postal Code
+Country
+Phone
+Email
+
+Administrative Contact Information:
+NameMARIA VALDIVIESO
+Organization
+Address
+City
+Postal Code
+Country
+Phone
+Email
+
+Information Updated: 2021-01-22 14:50:15
+
+
+-------------worldreader.org----------------
+
+NS-1130.AWSDNS-13.ORG205.251.196.106
+NS-144.AWSDNS-18.COM205.251.192.144
+NS-2014.AWSDNS-59.CO.UK205.251.199.222
+NS-832.AWSDNS-40.NET205.251.195.64
+
+Registrant Contact Information:
+NameRegistration Private
+OrganizationDomains By Proxy, LLC
+AddressDomainsByProxy.com
+Address14455 N. Hayden Road
+CityScottsdale
+State / ProvinceArizona
+Postal Code85260
+CountryUS
+Phone+1.4806242599
+Fax+1.4806242598
+Email
+
+Administrative Contact Information:
+NameRegistration Private
+OrganizationDomains By Proxy, LLC
+AddressDomainsByProxy.com
+Address14455 N. Hayden Road
+CityScottsdale
+State / ProvinceArizona
+Postal Code85260
+CountryUS
+Phone+1.4806242599
+Fax+1.4806242598
+Email
+
+Technical Contact Information:
+NameRegistration Private
+OrganizationDomains By Proxy, LLC
+AddressDomainsByProxy.com
+Address14455 N. Hayden Road
+CityScottsdale
+State / ProvinceArizona
+Postal Code85260
+CountryUS
+Phone+1.4806242599
+Fax+1.4806242598
+Email
+
+
+-------------studentassociation.ca-------------
+
+NameGo Daddy Domains Canada, Inc
+Whois Serverwhois.ca.fury.ca
+Referral URLca.godaddy.com
+StatusclientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+ns41.domaincontrol.com97.74.100.21
+ns42.domaincontrol.com173.201.68.21
+
+Registrant Contact Information:
+NameSAGBC
+Organization
+Address142 Kendal Ave, Room E100
+CityToronto
+State / ProvinceON
+Postal CodeM5R1M3
+CountryCA
+Phone+1.4164155000
+Email
+
+Administrative Contact Information:
+NameSAGBC
+Organization
+Address142 Kendal Ave, Room E100
+CityToronto
+State / ProvinceON
+Postal CodeM5R1M3
+CountryCA
+Phone+1.4164155000
+Email
+
+Technical Contact Information:
+NameSAGBC
+Organization
+Address142 Kendal Ave, Room E100
+CityToronto
+State / ProvinceON
+Postal CodeM5R1M3
+CountryCA
+Phone+1.4164155000
+Email
+
+Billing Contact Information:
+NameSAGBC
+Organization
+Address142 Kendal Ave, Room E100
+CityToronto
+State / ProvinceON
+Postal CodeM5R1M3
+CountryCA
+Phone+1.4164155000
+Email
+
+Information Updated: 2021-01-22 15:12:28
+
+-------------ashokacanada.org-------------
+
+Name: ashoka.org
+Registry Domain ID: D819384-LROR
+Domain Status:
+clientDeleteProhibited
+clientRenewProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+elle.ns.cloudflare.com
+albert.ns.cloudflare.comDates
+Registry Expiration: 2021-11-05 05:00:00 UTC
+Updated: 2020-11-06 18:20:28 UTC
+Created: 1996-11-06 05:00:00 UTC
+
+Registrant:
+Organization: Ashoka
+Mailing Address: Virginia, United States
+Technical:
+Organization: Ashoka
+Mailing Address: Virginia, United States
+Administrative:
+Organization: Ashoka
+Mailing Address: Virginia, United States
+Billing:
+Organization: Ashoka
+Mailing Address: Virginia, United States
+Redacted for privacy: some of the data in this object has been removed.
