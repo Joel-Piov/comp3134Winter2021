@@ -1,0 +1,11 @@
+root@comp-3134-Winter-2021:~# tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+16:49:10.757026 IP 49.247.213.58.39750 > 167.99.182.113.ssh: Flags [P.], seq 3889458930:3889458946, ack 201387866, win 262, options [nop,nop,TS val 1367748491 ecr 1464743129], length 16
+16:49:10.757069 IP 167.99.182.113.ssh > 49.247.213.58.39750: Flags [.], ack 16, win 507, options [nop,nop,TS val 1464743325 ecr 1367748491], length 0
+16:49:10.758240 IP 167.99.182.113.ssh > cpea84e3f5bc443-cma84e3f5bc440.cpe.net.fido.ca.50847: Flags [P.], seq 3218371584:3218371692, ack 3147386075, win 501, length 108
+16:49:10.758316 IP 167.99.182.113.ssh > cpea84e3f5bc443-cma84e3f5bc440.cpe.net.fido.ca.50847: Flags [P.], seq 108:144, ack 1, win 501, length 36
+16:49:10.758379 IP 167.99.182.113.ssh > cpea84e3f5bc443-cma84e3f5bc440.cpe.net.fido.ca.50847: Flags [P.], seq 144:252, ack 1, win 501, length 108
+5 packets captured
+27 packets received by filter
+0 packets dropped by kernel
