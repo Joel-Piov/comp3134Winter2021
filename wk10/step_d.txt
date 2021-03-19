@@ -1,0 +1,2 @@
+We see an error, this means that who ever is accessing our webpage has been able to insert a script onto our server.
+The sensitive information is the folder structure which could house data.

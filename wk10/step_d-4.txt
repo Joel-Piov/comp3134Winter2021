@@ -1,0 +1,1 @@
+The user accessing the page can see the file directory, which could give them access to the root structure of our server.

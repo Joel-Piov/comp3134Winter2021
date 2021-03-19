@@ -1,0 +1,1 @@
+Convert all HTML comments to PHP comments, which are not seen by browser

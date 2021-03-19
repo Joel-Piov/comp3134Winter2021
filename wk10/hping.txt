@@ -1,0 +1,3 @@
+hping3 --rand-source 178.128.237.247  -d 10000
+hping3 -a 1.1.1.1 178.128.237.247  -d 9000
+hping3 178.128.237.247  -d 1000 --icmptype -icmp -i 75

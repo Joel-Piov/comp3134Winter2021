@@ -1,0 +1,2 @@
+%2e%2e%2f represents ../ which shows use the directorystucture above current directory.
+With this a user can bypass validation and look into the base layer of a server
