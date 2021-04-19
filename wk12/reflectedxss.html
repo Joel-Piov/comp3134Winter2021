@@ -1,0 +1,26 @@
+
+<form id='login' name='login' method='post'>
+    <fieldset >
+    <h2>Login</h2>
+    
+    <label for='username' >Text:</label>
+    <input type='text' name='text' value="text" id='web-text'  maxlength="50" />
+
+    <button type='button' id="wbutton"  >Submit</button>
+    
+    </fieldset>
+    </form>
+
+    <div id="wdisplay" name="wdisplay">
+
+    </div>
+
+<script>
+    var button = document.getElementById('wbutton'),
+    content = document.getElementById('wdisplay');
+
+    button.onclick = function() {
+    content.innerHTML = document.getElementById('web-text').value;
+    };
+    
+</script>
